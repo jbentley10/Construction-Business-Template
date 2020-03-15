@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import "../assets/styles/styles.css";
 
 const Home = () => (
   <div className="container">
